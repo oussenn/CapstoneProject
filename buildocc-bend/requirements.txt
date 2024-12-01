@@ -1,0 +1,6 @@
+psycopg[binary]
+fastapi
+uvicorn
+sse-starlette
+matplotlib
+numpy
