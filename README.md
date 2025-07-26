@@ -14,12 +14,6 @@ A real-time, energy-efficient building control platform that adjusts heating dyn
 
 ---
 
-## 🚀 Demo
-
-> Coming Soon – Stay tuned for a live link via Vercel or demo video!
-
----
-
 ## 🧰 Tech Stack
 
 | Layer     | Languages         | Frameworks / Libraries                                                                       | Tools / Services           |
@@ -52,8 +46,8 @@ A real-time, energy-efficient building control platform that adjusts heating dyn
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-heating-system.git
-cd smart-heating-system
+git clone https://github.com/oussenn/CapstoneProject.git
+cd CapstoneProject
 ````
 
 ---
