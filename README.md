@@ -8,6 +8,7 @@ A real-time, energy-efficient building control platform that adjusts heating dyn
 
 .
 ├── buildocc-bend     # Backend: FastAPI server with PostgreSQL integration
+
 └── buildocc          # Frontend: Next.js + React dashboard with heatmaps
 
 
