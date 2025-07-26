@@ -1,20 +1,3 @@
-Absolutely! Here's a **professionally formatted, production-ready `README.md`** for your GitHub repo. It includes all common sections found in open-source projects, such as:
-
-* Project overview
-* Tech stack
-* Installation
-* Usage
-* Folder structure
-* Features
-* Roadmap
-* License
-* Acknowledgements
-
-You can paste this directly into your `README.md` file:
-
----
-
-```markdown
 # 🧠 Dynamic Smart Heating Control System
 
 A real-time, energy-efficient building control platform that adjusts heating dynamically based on class schedules and room occupancy. This capstone project leverages modern web technologies, data visualization, and microservices to optimize campus heating systems and reduce energy waste.
@@ -23,13 +6,10 @@ A real-time, energy-efficient building control platform that adjusts heating dyn
 
 ## 📂 Project Structure
 
-```
-
 .
 ├── buildocc-bend     # Backend: FastAPI server with PostgreSQL integration
 └── buildocc          # Frontend: Next.js + React dashboard with heatmaps
 
-````
 
 ---
 
@@ -166,27 +146,5 @@ This project is for academic and research use. For commercial use, please contac
 ## ✉️ Contact
 
 **Oussama Ennaciri**
-📧 \[[your-email@example.com](mailto:your-email@example.com)]
+o.ennaciri@aui.ma
 📍 Al Akhawayn University
-🔗 \[LinkedIn or GitHub profile]
-
----
-
-```
-
----
-
-### ✅ Next Steps:
-
-1. Paste this into your main `README.md`.
-2. Replace:
-   - `https://github.com/yourusername/smart-heating-system.git` with your actual repo URL.
-   - `[your-email@example.com]` and `[LinkedIn or GitHub profile]` with your info.
-
-Would you like me to also:
-- Add badges (e.g., `Built with FastAPI`, `Deployed with Vercel`)?
-- Create separate `README.md` files for the backend and frontend folders?
-- Generate an image of a system architecture diagram?
-
-Let me know and I’ll prepare it right away.
-```
